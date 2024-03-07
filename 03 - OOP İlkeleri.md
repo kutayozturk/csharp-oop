@@ -34,7 +34,9 @@ Yukarıdaki örnekten bir "Kapsulleme" adında sınıf oluşturulmuştur. Bu sı
 ```
 Kapsulleme kapsul1 = new Kapsulleme();
 
-// kapsul1.a = 5; // Bu ifade hata verecektir. Çünkü "a" değeri private'dir ve class dışından erişilemez. Ancak;
+// kapsul1.a = 5;
+// Yukarıdaki komut hata verecektir. Çünkü "a" değeri private'dir ve class dışından erişilemez.
+// Ancak;
 
 kapsul1.setA(5);
 kapsul1.getA();

@@ -24,7 +24,7 @@ Nesneyi oluşturmak için "new" anahtar kelimesi kullanılır.
 
 **Referance** Type ile oluşturulan veriler, RAM'de **STACK** alanında yer alır, bu varlığa ait değer de **HEAP** alanına yerleşir.
 
-![alt text](image.png)
+![image](https://github.com/kutayozturk/csharp-oop/assets/94574681/052be8fc-2309-4e01-811c-4da3b9c3096b)
 
 Yukarıda görselden de anlaşılacağı üzere,
 
